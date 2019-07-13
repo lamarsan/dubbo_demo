@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+consumer/.mvn/
+consumer/mvnw
+consumer/mvnw.cmd
+dubbo_demo.iml
+provider/.mvn/
+provider/mvnw
+provider/mvnw.cmd
